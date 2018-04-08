@@ -1,0 +1,19 @@
+{
+  "name": "koa-mock",
+  "version": "1.0.0",
+  "description": "mock-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wool",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
